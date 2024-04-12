@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapsFinalProject</string>
+    <string name="welcome"> Welcome to our Maps </string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="place">Places</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="name">Names of the Developers</string>
+    <string name="names">Bhuwan Malla 1151589 \n\n Nayan Thapa \n\n Tashi Lama \n\n Nazmul Alam Nayeem \n 1152486 </string>
+    <string name="save_location">Save Location</string>
+    <string name="saved_location">Saved Location</string>
+
+</resources>
